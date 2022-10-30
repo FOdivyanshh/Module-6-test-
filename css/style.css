@@ -1,0 +1,86 @@
+.red-alert {
+  color: red;
+  padding: 10px 0;
+}
+
+#register input,
+select {
+  border-radius: 6px;
+  border: 1px solid;
+  width: 100%;
+  border-color: #8080808c;
+}
+
+*:focus {
+  outline: none;
+}
+*:hover {
+  outline: none;
+}
+
+#register label {
+  padding: 10px 0;
+  color: #000;
+  font-weight: 500;
+}
+.container {
+  max-width: 100% !important;
+}
+
+h1 {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.error {
+  color: red;
+  size: 80%;
+}
+.hidden {
+  display: none;
+}
+
+.submit {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+}
+
+.gender-section input {
+  width: unset !important;
+  margin: 0 10px;
+}
+
+.gender-section label {
+  padding: 0px 0;
+  color: #000;
+  font-weight: 500;
+}
+
+.heading label {
+  text-align: center;
+  display: block;
+}
+
+select {
+  padding: 5px;
+}
+input {
+  padding: 6px;
+}
+.for-email {
+  position: absolute;
+  width: 23%;
+}
+.for-email .email-sign {
+  padding: 7px 10px;
+  position: absolute;
+  border-radius: 6px;
+
+  left: 0;
+  background-color: #8080803b;
+}
+
+.for-email input {
+  padding-left: 40px;
+}
